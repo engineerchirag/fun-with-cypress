@@ -1,0 +1,14 @@
+{
+  "name": "fun-with-cypress",
+  "version": "1.0.0",
+  "description": "Fun stuffs with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "Chirag goel",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.8.1"
+  }
+}
