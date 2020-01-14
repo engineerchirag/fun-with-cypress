@@ -9,6 +9,7 @@
   "author": "Chirag goel",
   "license": "ISC",
   "devDependencies": {
+    "@cypress/snapshot": "^2.1.6",
     "cypress": "^3.8.1"
   }
 }
